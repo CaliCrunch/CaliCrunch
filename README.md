@@ -12,21 +12,11 @@ I am a Computer Science Student at [Colorado State University](https://compsci.c
 ---
 
 <p align="center">
-  <a style="text-decoration:none" href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a>
-  <a style="text-decoration:none" href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a style="text-decoration:none" href="https://ecma-international.org/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
-  </a>
-  <a style="text-decoration:none" href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++">
-  </a>
-  <a style="text-decoration:none" href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C/C++">
-  </a>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border: none; outline: none; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border: none; outline: none; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" style="border: none; outline: none; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" style="border: none; outline: none; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C/C++" style="border: none; outline: none; margin: 0; padding: 0;">
 
 </p>
 <!--
