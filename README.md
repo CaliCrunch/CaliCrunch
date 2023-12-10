@@ -1,5 +1,5 @@
 ## Hi there, I'm Antonio 👋
-I am a Computer Science Student at [Colorado State University](https://compsci.colostate.edu/), where I am pursuing a CS degree with a concentration in Software Engineering
+I am a Computer Science student at [Colorado State University](https://compsci.colostate.edu/), where I am pursuing a CS degree with a concentration in Software Engineering
 
 
 
