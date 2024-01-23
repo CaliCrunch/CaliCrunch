@@ -2,11 +2,11 @@
 I am a Computer Science student at [Colorado State University](https://compsci.colostate.edu/), where I am pursuing a CS degree with a concentration in Software Engineering
 
 
-<!-- The API is currently running into troubles, hopefully will get it up and running again soon 1/16/24
+ The API is currently running into troubles, hopefully will get it up and running again soon 1/16/24
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CaliCrunch&theme=dark&hide_border=true" width="400">
 </p>
--->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border: none; outline: none; margin: 0; padding: 0;">
