@@ -2,7 +2,6 @@
 I am a Computer Science student at [Colorado State University](https://compsci.colostate.edu/), where I am pursuing a CS degree with a concentration in Software Engineering
 
 
- The API is currently running into troubles, hopefully will get it up and running again soon 1/16/24
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CaliCrunch&theme=dark&hide_border=true" width="400">
 </p>
