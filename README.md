@@ -1,6 +1,5 @@
 ## Hi there, I'm Antonio 👋
-I am a Computer Science student at [Colorado State University](https://compsci.colostate.edu/), where I am pursuing a CS degree with a concentration in Software Engineering
-
+I am a Computer Science graduate from [Colorado State University](https://compsci.colostate.edu/) and a current EdTech Coordinator for a K12 school district. 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CaliCrunch&theme=dark&hide_border=true" width="400">
