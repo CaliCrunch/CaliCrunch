@@ -1,5 +1,5 @@
 ## Hi there, I'm Antonio 👋
-I am a Computer Science graduate from [Colorado State University](https://compsci.colostate.edu/) and a current EdTech Coordinator for a K12 school district. 
+I am a Computer Science graduate from [Colorado State University](https://compsci.colostate.edu/) and the current EdTech Coordinator of a K12 school district. 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CaliCrunch&theme=dark&hide_border=true" width="400">
